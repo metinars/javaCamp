@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="inheritance2.SmsLogger"/>
+    <fullyQualifiedTypeName name="interfaces.DataBaseLogger"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+    <fullyQualifiedTypeName name="interfaces.Customer"/>
+    <fullyQualifiedTypeName name="interfaces.SmsLogger"/>
+    <fullyQualifiedTypeName name="interfaces.EmailLogger"/>
+    <fullyQualifiedTypeName name="interfaces.FileLogger"/>
+    <fullyQualifiedTypeName name="interfaces.Utils"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+</qualifiedTypeNameHistroy>

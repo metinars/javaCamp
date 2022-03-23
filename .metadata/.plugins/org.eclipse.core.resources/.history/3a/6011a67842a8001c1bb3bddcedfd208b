@@ -1,0 +1,18 @@
+package interfaces;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Logger[] loggers = {new SmsLogger(), new EmailLogger()};
+		
+		CustomerManager customerManager = new CustomerManager();
+		
+		Customer metin = new Customer(1 , "Metin", "Arslan");
+		
+		customerManager.add(metin);
+		customerManager.delete(metin);
+		
+	}
+
+}

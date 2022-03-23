@@ -1,0 +1,7 @@
+package interfaces;
+
+public class Customer {
+	private in id;
+	private String firstName;
+	private String lastName;
+}

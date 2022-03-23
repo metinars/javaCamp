@@ -1,0 +1,5 @@
+package interfaces;
+
+public class DataBaseLogger implements Logger{
+
+}

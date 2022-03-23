@@ -1,0 +1,6 @@
+package day3Duty;
+
+public class Student extends User{
+	private String course;
+	private String completed;
+}
