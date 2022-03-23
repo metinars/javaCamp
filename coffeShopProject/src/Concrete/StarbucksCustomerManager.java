@@ -21,7 +21,7 @@ public class StarbucksCustomerManager extends BaseCustomerManager{
 			
 		}else {
 			
-			System.out.println("Mernis Doğrulama Hatası !");
+			System.out.println("Mernis Doğrulama Hatası!");
 		}
 	}
 	
