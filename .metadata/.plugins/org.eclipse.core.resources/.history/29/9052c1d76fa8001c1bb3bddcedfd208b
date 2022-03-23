@@ -1,7 +1,0 @@
-package interfaceAbstractDemo;
-
-public class BaseCustomerManager implements ICustomerService{
-	
-	@Override
-	public void save(Customer customer) {
-}
