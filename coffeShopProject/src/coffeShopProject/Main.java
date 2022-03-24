@@ -10,7 +10,7 @@ public class Main {
 
 	public static void main(String[] args) throws NumberFormatException, RemoteException{
 		BaseCustomerManager customerManager = new StarbucksCustomerManager(new MernisServiceAdapter());
-		customerManager.save(new Customer(1,"Eda Nur","Adan",2000,"10177040112"));
+		customerManager.save(new Customer(1,"Metin","Arslan",2000,"16694478700"));
 	}
 
 }
